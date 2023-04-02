@@ -1,0 +1,13 @@
+
+.navbar{
+
+background-color:tomato;
+
+}
+.navbar a{
+    margin-right: 10px;
+}
+
+.navbar .active{
+    background-color: #f0f0f0;
+}
